@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DsmApp</string>
+    <string name="app_title">DSM Dashboard</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="logo_desc">CV. Duta Sukses Makmur</string>
+    <string name="welcome_dsm">Selamat datang di Dashboard DSM</string>
+</resources>
